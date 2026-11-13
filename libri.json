@@ -5674,5 +5674,16 @@
     "data_acquisto": "2026-10-25",
     "prezzo_acquisto": 4.49,
     "note": ""
+  },
+  {
+    "isbn": "9788874550340",
+    "titolo": "1001 libri da leggere prima di morire",
+    "autore": "Boxall, Peter",
+    "editore": "Atlante",
+    "anno": 2008,
+    "copertina": "copertine/9788874550340.jpg",
+    "data_acquisto": "2026-10-25",
+    "prezzo_acquisto": 4.12,
+    "note": ""
   }
 ]
