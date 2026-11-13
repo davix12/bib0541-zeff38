@@ -5652,5 +5652,27 @@
     "data_acquisto": "2026-10-25",
     "prezzo_acquisto": 5.02,
     "note": ""
+  },
+  {
+    "isbn": "9788807821608",
+    "titolo": "Lord Jim",
+    "autore": "Conrad, Joseph",
+    "editore": "Feltrinelli",
+    "anno": 2002,
+    "copertina": "copertine/9788807821608.jpg",
+    "data_acquisto": "2026-10-25",
+    "prezzo_acquisto": 3.97,
+    "note": ""
+  },
+  {
+    "isbn": "9788870910759",
+    "titolo": "La vera storia del pirata Long John Silver",
+    "autore": "Larsson, Björn",
+    "editore": "Iperborea",
+    "anno": 2002,
+    "copertina": "copertine/9788870910759.jpg",
+    "data_acquisto": "2026-10-25",
+    "prezzo_acquisto": 4.49,
+    "note": ""
   }
 ]
